@@ -2,4 +2,4 @@
 #sudo chmod +x changeUserFileToEnglish.sh 
 export LANG=en_US   # zh_CN 改为中文
 xdg-user-dirs-gtk-update
-
+#选择 update
