@@ -1,0 +1,2 @@
+sudo git init --bare sample.git
+sudo chown -R git:git sample.git
